@@ -4,7 +4,7 @@
     --fsm: 85px;
     --fss: 30px;
     --fses: 18px;
-    --accent: #434c5eaa;
+    --accent: #434c5e;
     --bg: #3b4252;
     --sbg: #4c566a;
     --fg: #d8dee9;
@@ -23,7 +23,7 @@
 }
 
 .darktheme {
-    --accent: #434c5e60;
+    --accent: #434c5e;
     --bg: #3b4252;
     --sbg: #4c566a;
     --fg: #d8dee9;
