@@ -6,7 +6,7 @@
     --fses: 18px;
     --accent: #373737;
     --bg: #242424;
-    --sbg: #4c566a;
+    --sbg: #656565;
     --fg: #d8dee9;
    /* --imgbg: url(/img/wal.jpg);
     --imgcol: linear-gradient(
@@ -25,7 +25,7 @@
 .darktheme {
     --accent: #373737;
     --bg: #242424;
-    --sbg: #4c566a;
+    --sbg: #656565;
     --fg: #d8dee9;
    /* --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)); */
 }
